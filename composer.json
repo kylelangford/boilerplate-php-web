@@ -1,0 +1,15 @@
+{
+    "name": "kylelangford/composer-test",
+    "authors": [
+        {
+            "name": "Kyle Langford",
+            "email": "kyle.langford@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.17",
+        "slim/slim": "^2.6",
+        "twig/twig": "^1.23",
+        "slim/views": "^0.1.3"
+    }
+}
